@@ -1,0 +1,83 @@
+1
+00:00:00,000 --> 00:00:02,000
+Cześć! Jestem [Your name].
+
+2
+00:00:02,000 --> 00:00:05,000
+Dziś pokazuję Ci AJNA - platformę, która zmienia wszystko w pracy z AI.
+
+3
+00:00:05,000 --> 00:00:08,000
+Zamiast tradycyjnego chatu gdzie piszesz prompt i AI odpowiada raz...
+
+4
+00:00:08,000 --> 00:00:11,000
+Tutaj my pracujemy razem. To jest syntezy. To jest przyszłość pracy z AI.
+
+5
+00:00:11,000 --> 00:00:15,000
+Tradycyjne AI tools mają problem: tylko jeden model, brak historii, nie ma współpracy.
+
+6
+00:00:15,000 --> 00:00:18,000
+Ale AJNA? Zmienia to wszystko.
+
+7
+00:00:18,000 --> 00:00:22,000
+Pierwszy - widzisz tutaj? Mogę wybrać model: Claude, GPT-4, Gemini, lokalna Ollama.
+
+8
+00:00:22,000 --> 00:00:25,000
+Zmieniam w locie. Żaden reset. Ten sam kontekst.
+
+9
+00:00:25,000 --> 00:00:30,000
+Teraz pytam coś: 'Pomóż mi stworzyć elevator pitch dla AJNA na YouTubie'
+
+10
+00:00:30,000 --> 00:00:35,000
+Claude odpowiada tutaj. Ale to nie koniec. Ja mogę edytować, poprawiać, prosić o więcej.
+
+11
+00:00:35,000 --> 00:00:40,000
+I mogę zmienić model - prosić GPT-4 o to samo - porównać odpowiedzi.
+
+12
+00:00:40,000 --> 00:00:45,000
+Rezultat? Mogę wyeksportować do JSON, Markdown, Plain text.
+
+13
+00:00:45,000 --> 00:00:50,000
+I integruje się z n8n - co znaczy mogę zautomatyzować procesy.
+
+14
+00:00:50,000 --> 00:00:55,000
+Dlaczego AJNA? Syntezy - ty plus AI razem.
+
+15
+00:00:55,000 --> 00:01:00,000
+Wielkie modele - jeden klik. Historia - uczysz się na każdej rozmowie.
+
+16
+00:01:00,000 --> 00:01:05,000
+100% darmowe. Serverless. Dla każdego.
+
+17
+00:01:05,000 --> 00:01:10,000
+AJNA jest dostępne teraz na ajna.vercel.app
+
+18
+00:01:10,000 --> 00:01:15,000
+GitHub: github.com/tomaszhallek7-dotcom/ajna
+
+19
+00:01:15,000 --> 00:01:20,000
+Spróbuj sam. Jest darmowe. Nie trzeba się rejestrować.
+
+20
+00:01:20,000 --> 00:01:25,000
+A jeśli się podoba - subskrybuj. Następny video: Building AJNA from Scratch.
+
+21
+00:01:25,000 --> 00:01:30,000
+Dziękuję! Co myślisz? Będziesz używać AJNA? Komentarz poniżej!
